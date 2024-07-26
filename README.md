@@ -1,21 +1,9 @@
-#TEXT
-header text
+#TEST
+##TESTING
 
 <p align="center">
-sample
-sample 2
-sample 3
-</p>
-sample 4
- <img src= "https://i.imgur.com/HMSVQX9.gif">
-to put little pixels (the stuff from those carrds or wtv..)
 
-<s>SAMPLE</s>
-puts a slash through the text
+<igm src= "https://postimg.cc/0MSrqJN8">
 
-<b>SAMPLE</b>
-should bold the text..
-
-<i>SAMPEL</i>
-should make italic
+SAMPLE 1 <b>SAMPLE2</b> SAMPLE3
 
